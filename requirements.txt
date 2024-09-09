@@ -2,6 +2,7 @@ pip>=24.2
 langchain
 langchain_community
 langchain_core
+pysqlite3-binary
 sqlite-utils
 sqlalchemy
 chromadb
