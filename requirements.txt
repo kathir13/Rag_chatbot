@@ -1,6 +1,9 @@
 langchain
 langchain_community
 langchain_core
+pysqlite3
+sqlite-utils
+sqlalchemy
 chromadb
 python-dotenv
 pypdf
