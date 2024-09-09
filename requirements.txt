@@ -1,4 +1,4 @@
-pip==24.2
+pip>=24.2
 langchain
 langchain_community
 langchain_core
