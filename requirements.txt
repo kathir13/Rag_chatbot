@@ -1,6 +1,7 @@
 langchain
 langchain_community
 langchain_core
+pyproject.toml-based projects
 pysqlite3
 sqlite-utils
 sqlalchemy
