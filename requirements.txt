@@ -1,10 +1,9 @@
 langchain
 langchain_community
 langchain_core
-pyproject.toml-based projects
-pysqlite3
 sqlite-utils
 sqlalchemy
+pysqlite3
 chromadb
 python-dotenv
 pypdf
